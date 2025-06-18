@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java & Spring Boot | Microservices</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;MongoDB+%7C+MySQL+%7C+Redis;React+Frontend+Integration;Building+Buyzaar+E-Commerce+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;MongoDB+%7C+MySQL+%7C+Redis;React;Building+Buyzaar+E-Commerce+Platform" alt="Typing SVG" />
 </p>
 
 ---
