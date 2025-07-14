@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | 🧠 Java, Spring Boot, Microservices</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;MongoDB+%7C+MySQL+%7C+Redis;React+%7C+Kafka+%7C+Docker;Designing+Scalable+Systems+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Java+%7C+Spring+Boot+%7C+Microservices;MongoDB+%7C+MySQL+%7C+Redis;Kafka+%7C+Docker+%7C+AWS;Designing+Scalable+Systems+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -32,22 +32,30 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </p>
 
 ### 🔄 Messaging & Streaming
 <p align="center">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Infrastructure
+### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS CloudWatch-FF6600?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic Beanstalk-232F3E?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS IAM-1E2A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Monitoring
+### 🧪 Tools & Monitoring
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
@@ -60,7 +68,7 @@
   <img src="https://img.shields.io/badge/STS-Spring Tool Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-### 📐 Practices & Methodologies
+### 🧠 Practices & Methodologies
 <p align="center">
   <img src="https://img.shields.io/badge/SOLID-Principles-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agile-Development-FCA121?style=for-the-badge&logo=scrumalliance&logoColor=black" />
@@ -74,8 +82,7 @@
 <details>
   <summary><strong>🔍 Quick Overview</strong></summary>
 
-  🔹 Modular e-commerce system using Spring Boot microservices
-
+  🔹 Modular e-commerce system using Spring Boot microservices  
   - 🧱 Microservices: Product, User, Cart, Order, Payment  
   - 🔐 Auth: JWT + Role-Based Access  
   - 🛠️ Stack: Spring Boot, MongoDB, Redis, Kafka, React  
@@ -88,8 +95,7 @@
 <details>
   <summary><strong>🔍 Quick Overview</strong></summary>
 
-  📋 Insurance platform with real-time dashboards & policy tracking.
-
+  📋 Insurance platform with real-time dashboards & policy tracking  
   - 👤 Roles: Admin, Agent, Employee, Customer  
   - 🧾 Features: Policies, Claims, Commissions, Payments  
   - 📊 Dashboards: Analytics with filters and graphs  
@@ -102,8 +108,7 @@
 <details>
   <summary><strong>🔍 Quick Overview</strong></summary>
 
-  🏦 Proposal automation platform for Max Life Insurance.
-
+  🏦 Proposal automation platform for Max Life Insurance  
   - 📋 6-stage flow: Customer → Product → Personal → Lifestyle → Verification → Payment  
   - 🔐 OTP Login via Redis with 3-attempt throttle  
   - ⚡ Asynchronous APIs for fast performance  
