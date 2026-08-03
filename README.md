@@ -59,6 +59,10 @@ By day I keep a live insurance platform honest: fast APIs, calm releases, dashbo
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valletivarish&bg_color=0B0B0B&color=F2F2EF&line=CDE64B&point=CDE64B&hide_border=true&area=true" width="95%" alt="activity graph" />
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/CDE64B/valletivarish" width="90%" alt="contribution graph" />
 </p>
 
