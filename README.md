@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,70:1a1f0a,100:CDE64B&height=200&section=header&text=Varish%20Valleti&fontColor=F2F2EF&fontSize=54&animation=fadeIn&desc=Backend%20engineer.%20Latency%20is%20a%20feature.&descSize=18&descAlignY=75" />
+<h1 align="center">Varish Valleti</h1>
+<p align="center"><strong>Backend engineer. Latency is a feature.</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=CDE64B&center=true&vCenter=true&width=700&lines=Backends+that+stay+boring+in+production;Java+%2B+Spring+Boot+%2B+a+lot+of+Redis;Event-driven+when+it+matters%2C+simple+when+it+doesn't;Currently+building+Buyzaar" alt="typing" />
@@ -55,15 +56,9 @@ By day I keep a live insurance platform honest: fast APIs, calm releases, dashbo
 ## Numbers that move
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=valletivarish&theme=dark&hide_border=true&background=0B0B0B&ring=CDE64B&fire=CDE64B&currStreakLabel=CDE64B" height="170" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valletivarish&bg_color=0B0B0B&color=F2F2EF&line=CDE64B&point=CDE64B&hide_border=true&area=true" width="95%" alt="activity graph" />
 </p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/CDE64B/valletivarish" width="90%" alt="contribution graph" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CDE64B,30:1a1f0a,100:0B0B0B&height=120&section=footer" />
