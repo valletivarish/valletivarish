@@ -13,6 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=valletivarish&style=for-the-badge&color=cde64b&label=Visitors"/>
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="780" alt="animated terminal session" />
+</p>
+
+<p align="center">
+  <img src="assets/pulse.svg" width="780" alt="production pulse dashboard" />
+</p>
+
 ## Now
 
 | Building | Exploring | Sharpening |
@@ -29,22 +39,7 @@
 ## Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,react,mysql,mongodb,redis,aws,docker,jenkins,gitlab,idea&theme=dark&perline=6" alt="tech stack" />
 </p>
 
 > Looking for the work story? That's what the [portfolio](https://valletivarishdev.vercel.app) is for. The code lives in the pinned repos below. This page is just me.
