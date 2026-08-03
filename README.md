@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=valletivarish&style=for-the-badge&color=cde64b&label=Visitors"/>
 </p>
 
-<br/>
-
-By day I keep a live insurance platform honest: fast APIs, calm releases, dashboards that stay green. By night I break my own services on purpose in **Buyzaar**, an event-driven commerce playground, and grind LeetCode until the graphs below look respectable. The full professional story lives on my [portfolio](https://valletivarishdev.vercel.app); this page is the quick tour.
-
 ## Now
 
 | Building | Exploring | Sharpening |
